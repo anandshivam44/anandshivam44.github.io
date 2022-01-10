@@ -534,6 +534,12 @@ iframe {
     margin-bottom: 15px;
   }
 }
+.project a:hover,
+.project a:visited,
+.project a:link,
+.project a:active {
+  color: #32383e;
+}
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
 /* Large devices (large desktops, 1200px and up) */
